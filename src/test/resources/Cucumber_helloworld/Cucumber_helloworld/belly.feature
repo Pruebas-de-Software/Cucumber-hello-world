@@ -18,7 +18,7 @@ Feature: BellyFeature
   Scenario: should fail 2
     Given I have eaten 9 cukes
     When I wait 2 hour
-    Then my Belly should growl 
+    Then my Belly should not growl 
  
    Scenario: should fail 3
     Given I have eaten 10 cukes
