@@ -18,7 +18,7 @@ Primary exercise to know BDD and Cucumber, the objective is to know the way in w
 | 3 | 11 | true |
 | 1 | 9 | ... |
 
-## Belly Feuature Example
+## Belly feature, scenario example
 
 ```Gherkin
 Feature: BellyFeature
