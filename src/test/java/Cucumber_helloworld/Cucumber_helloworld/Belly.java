@@ -5,10 +5,10 @@ public class Belly {
 	int eatenCucumbers = 0;
     int timeWaited = 0;
     
-    public void reset() { 
-    	eatenCucumbers = 0; 
-    	timeWaited = 0;
-    }
+    //public void reset() { 
+    //	eatenCucumbers = 0; 
+    //	timeWaited = 0;
+    //}
     
 	public void eat(int cukes) {
 		System.out.println("I ate " + cukes + " cucumbers.");
