@@ -31,5 +31,4 @@ public class StepDefinitions {
     public void my_belly_should_not_growl() throws Throwable {
     	assertFalse(belly.isGrowling());
     }
-
 }
