@@ -18,7 +18,21 @@ Primary exercise to know BDD and Cucumber, the objective is to know the way in w
 | 3 | 11 | true |
 | 1 | 9 | ... |
 
+## Belly Feuature Example
+
+```Gherkin
+Feature: BellyFeature
+
+  Scenario: eaten many cukes
+    Given I have eaten 42 cukes
+    When I wait 2 hour
+    Then my Belly should growl
+```
+
 ### Execution instructions, from Eclipse
 
 1. Open project "Open Projects from file System"
 2. Run project
+
+### Desde la consola
+1. mvn test
