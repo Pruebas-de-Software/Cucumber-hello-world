@@ -36,13 +36,13 @@ Feature: BellyFeature
 		...
     }
 
-	@When("I wait {int} hour")
+    @When("I wait {int} hour")
     public void i_wait_hour(int arg1) throws Throwable {
 		...
     }
 
-	@Then("my Belly should growl")
-	public void my_belly_should_growl() throws Throwable {
+    @Then("my Belly should growl")
+    public void my_belly_should_growl() throws Throwable {
 		...
     }
     
