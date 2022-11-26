@@ -60,5 +60,5 @@ Feature: BellyFeature
 1. Open project "Open Projects from file System"
 2. Run project
 
-### Desde la consola
-1. mvn test
+### From Console
+...
