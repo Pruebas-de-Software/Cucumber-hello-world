@@ -1,4 +1,4 @@
-# Cucumber hello world : Get in my belly!
+# Cucumber hello world : Get in my belly! BDD
 Primary exercise to know BDD and Cucumber, the objective is to know the way in which a Cucumber project is structured and learn how to write a "features" file. The project has been created in Maven and Eclipse configured with Cucumber plugins.
 
 ### The problem
