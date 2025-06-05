@@ -84,7 +84,7 @@ From the root of the project (where `pom.xml` is located), run the following com
 
 ```bash
 mvn test
-
+```
 ---
 
 
